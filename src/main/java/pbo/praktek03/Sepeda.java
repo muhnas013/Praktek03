@@ -7,7 +7,7 @@ package pbo.praktek03;
 public class Sepeda {
     String merk;
     String warna;
-    String harga;
+    double harga;
     
     void cetakInfo () {
         System.err.println("Merk \t: "+merk+"\n"+
