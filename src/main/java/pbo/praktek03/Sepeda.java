@@ -4,10 +4,8 @@
  */
 package pbo.praktek03;
 
-/**
- *
- * @author damn
- */
 public class Sepeda {
-    
+    String merk;
+    String warna;
+    String harga;
 }
